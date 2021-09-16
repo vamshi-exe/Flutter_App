@@ -1,6 +1,6 @@
 include ':app'
 
-def localProperties = new Properties()
+def localProperties = newProperties()
 def localPropertiesFile = rootProject.file('local.properties')
 
 
